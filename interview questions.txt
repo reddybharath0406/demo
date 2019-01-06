@@ -1,0 +1,117 @@
+what is the impotance of the html doctype?
+
+HTML DOCTYPE is an instruction to the web browser about the version of the markup language in which the page is written. DOCTYPE refers to Document Type Definition (DTD).
+
+The declaration must be the very first thing in your HTML document, before the tag. The declaration is not an HTML tag, it is an instruction to the web browser about what version of HTML the page is written 
+
+===================================================================================
+
+what is web application?
+
+A web application is a computer program that utilizes web browsers and web technology to perform  tasks over  the internet.
+
+
+===================================================================================
+
+What does the doctype mean?
+
+The doctype declaration should be the very first thing in an HTML document, before the tag. The doctype declaration is not an HTML tag; it is an instruction to the web browser about what version of the markup language the page is written in. The doctype declaration refers to a Document Type Definition (DTD).
+
+===================================================================================
+
+what is the new image elements in html 5?
+
+The new image element in HTML5 is the <picture> tag.
+
+A <picture> tag allows you to enter the image as well as different source tags which define media and media has to do with, for example, the minimum width of the device being used.
+
+===================================================================================
+
+do all html elements need both opening and closing tags?
+
+HTML elements with no content are called empty elements. <br> is an empty element without a closing tag (the <br> tag defines a line break). Empty elements can be "closed" in the opening tag like this: <br />. HTML5 does not require empty elements to be closed.
+
+===================================================================================
+
+name three ways to define a color in html?
+
+Color names - You can specify color names directly like green, blue or red.
+Hex codes - A six-digit code representing the amount of red, green, and blue that makes up the color.
+Color decimal or percentage values - This value is specified using the rgb( ) property.
+==================================================================================
+
+
+explain the difference between visibility hidden and display none?
+
+
+display:none will not be available in the page and does not occupy any space. visibility:hidden hides an element, but it will still take up the same space as before. The element will be hidden, but still affect the layout. visibility:hidden preserve the space, whereas display:none doesn't preserve the space.
+
+===================================================================================
+
+List some of the new css propetied introduced with css3 ?
+
+
+
+
+
+
+
+
+===================================================================================
+
+explain what pseudo classes are and their usage?
+
+A pseudo-class is used to define a special state of an element.
+
+For example, it can be used to:
+
+Style an element when a user mouses over it
+Style visited and unvisited links differently
+Style an element when it gets focus
+
+===================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
