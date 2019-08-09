@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "username",
+    "type": "java.lang.String",
+    "description": "A description for 'username'"
+  },
+  {
+    "name": "password",
+    "type": "java.lang.String",
+    "description": "A description for 'password'"
+  },
+  {
+    "name": "url",
+    "type": "java.lang.String",
+    "description": "A description for 'url'"
+  },
+  {
+    "name": "ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'ddl'"
+  },
+  {
+    "name": "showsql",
+    "type": "java.lang.String",
+    "description": "A description for 'showsql'"
+  },
+  {
+    "name": "dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'dialect'"
+  },
+  {
+    "name": "driverclassname",
+    "type": "java.lang.String",
+    "description": "A description for 'driverclassname'"
+  }
+]}
